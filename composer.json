@@ -5,7 +5,7 @@
     "type": "magento2-module",
     "description": "Magento 2 Module Pagar.me",
     "require": {
-        "php": "~7.1.0",
+        "php": "~7.1",
         "pagarme/pagarmecoreapi": "~5.6.0"
     },
     "require-dev": {
